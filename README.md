@@ -7,9 +7,11 @@
 		<br><br>
 		:star2: :sparkles: :star2:
 		<br>
-		I am fourth year student of Applied Informatics
+		I am 1st year, 2nd grade student of Computer Science.
 		<br>
-		on specialization „Mobile systems and applications”.
+		I'm interested in mobile applications and in spare time
+		<br>
+		I like to explore new technologies unknown to me.
 		<br>
 		Recently I was working on Engineer's Thesis 
 		<br>
@@ -19,7 +21,11 @@
 			is an extended equivalent of the paper travel journal".
 		</em>
 		<br>
-		Now I would like to focus on the defense
+		I have defended my work and completed 1st grade studies
+		<br>
+		and now started 2nd grade at the same University.
+		<br>
+		Now I would like to focus on my education
 		<br>
 		and training in mobile development.
 		<br>
