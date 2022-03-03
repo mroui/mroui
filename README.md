@@ -7,31 +7,23 @@
 		<br><br>
 		:star2: :sparkles: :star2:
 		<br>
-		I am 1st year, 2nd grade student of Computer Science.
+		I am 2nd year, 2nd grade student of Computer Science.
 		<br>
 		I'm interested in mobile applications and in spare time
 		<br>
 		I like to explore new technologies unknown to me.
 		<br>
-		Recently I was working on Engineer's Thesis 
+		I'm currently working on my Master's Thesis 
 		<br>
 		<em>
-			"TravelJournal - mobile application which
+			"A comparative analysis of artificial intelligence pathfinding algorithms
 			<br>
-			is an extended equivalent of the paper travel journal".
+			with implementation in the authorial "Amazes" game".
 		</em>
 		<br>
-		I have defended my work and completed 1st grade studies
+		Now I would like to focus on it.
 		<br>
-		and now started 2nd grade at the same University.
-		<br>
-		Now I would like to focus on my education
-		<br>
-		and training in mobile development.
-		<br>
-		I am currently working on my <strong>#Java #Android</strong> skills
-		<br>
-		to get to know <strong>#Kotlin</strong> in the next step.
+		Feel free to check out my projects!
 		<br>
 		:star2: :sparkles: :star2:
 		<br><br>
