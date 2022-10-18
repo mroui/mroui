@@ -7,21 +7,15 @@
 		<br><br>
 		:star2: :sparkles: :star2:
 		<br>
-		I am 2nd year, 2nd grade student of Computer Science.
+		I am Junior Mobile Software Engineer for Android platform,
 		<br>
-		I'm interested in mobile applications and in spare time
+		who is interested in mobile applications and in spare time
 		<br>
-		I like to explore new technologies unknown to me.
+		like to explore new unknown technologies.
 		<br>
-		I'm currently working on my Master's Thesis 
+		I'm currently working on my mobile apps development skills
 		<br>
-		<em>
-			"A comparative analysis of artificial intelligence pathfinding algorithms
-			<br>
-			with implementation in the authorial "Amazes" game".
-		</em>
-		<br>
-		Now I would like to focus on it.
+		to keep getting better and better :muscle:
 		<br>
 		Feel free to check out my projects!
 		<br>
